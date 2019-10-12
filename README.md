@@ -1,3 +1,3 @@
 # Astrophysics
 
-This repo was used to train astrophysist's nets
+This repo was used to train astrophysicist's nets
